@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**larifar/larifar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bio
 
-Here are some ideas to get you started:
+Estou atualmente cursando medicina veterinária mas planejo migrar para a área de TI. Atualmente estudando lógica da programação, e html&css.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larifar&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=larifar.github.io)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contatos
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/larissa-faria-silva-816692251/)
