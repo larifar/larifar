@@ -2,7 +2,7 @@
 
 ## Bio
 
-Estou atualmente cursando medicina veterinária mas planejo migrar para a área de TI. Atualmente estudando lógica da programação, e html&css.
+Estou atualmente cursando medicina veterinária mas planejo migrar para a área de TI. Atualmente estudando html,css e javascript.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larifar&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
