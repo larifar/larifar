@@ -2,7 +2,7 @@
 
 ## Bio
 
-Estou atualmente cursando medicina veterinária mas planejo migrar para a área de TI. Atualmente estudando html,css e javascript.
+Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas da FIAP. Atualmente estudando html,css, javascript e python.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larifar&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
