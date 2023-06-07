@@ -11,6 +11,7 @@ Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=larifar.github.io)](https://github.com/larifar/larifar.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Projeto--Anagramark)](https://github.com/larifar/Projeto--Anagramark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Alurabook)](https://github.com/larifar/Alurabook)
 
 ## Contatos
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/larissa-faria-silva-816692251/)
