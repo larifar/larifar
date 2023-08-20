@@ -18,7 +18,7 @@ Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=larifar.github.io)](https://github.com/larifar/larifar.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Projeto--Anagramark)](https://github.com/larifar/Projeto--Anagramark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=treinos_Java)](https://github.com/larifar/treinos_Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Alurabook)](https://github.com/larifar/Alurabook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Projeto-Fintech)](https://github.com/larifar/Projeto-Fintech)
 
