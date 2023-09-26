@@ -20,6 +20,7 @@ Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=treinos_Java)](https://github.com/larifar/treinos_Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Alurabook)](https://github.com/larifar/Alurabook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Exercicios_JS)](https://github.com/larifar/Exercicios_JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Lista_Tarefas_Codarme)](https://github.com/larifar/Lista_Tarefas_Codarme)
 
 
 ## Contatos
