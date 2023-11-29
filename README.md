@@ -17,6 +17,7 @@ Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas da FIAP.
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 ## Projetos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=SearchOnPdfs)](https://github.com/larifar/SearchOnPdfs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=treinos_Java)](https://github.com/larifar/treinos_Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Alurabook)](https://github.com/larifar/Alurabook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Exercicios_JS)](https://github.com/larifar/Exercicios_JS)
