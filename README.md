@@ -2,7 +2,7 @@
 
 ## Bio
 
-Atualmente estudante do curso de Análise e Desenvolvimento de Sistemas da FIAP (4/4). Estou me dedicando ao fullstack com Spring, Java e Angular :)
+Estou me dedicando ao fullstack com Spring, Java e Angular :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larifar&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
