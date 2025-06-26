@@ -19,7 +19,10 @@ Estou me dedicando ao fullstack com Spring, Java e Angular :)
 ## Projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=brasileirao-api)](https://github.com/larifar/brasileirao-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=angular-small-crud-project)](https://github.com/larifar/angular-small-crud-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=SearchOnPdfs)](https://github.com/larifar/SearchOnPdfs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=calculadora-racao)](https://github.com/larifar/calculadora-racao)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=GeradorSenhaJava)](https://github.com/larifar/GeradorSenhaJava)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Resumee)](https://github.com/larifar/Resumee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=dia-dos-namorados)](https://github.com/larifar/dia-dos-namorados)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Alurabook)](https://github.com/larifar/Alurabook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=larifar&repo=Lista_Tarefas_Codarme)](https://github.com/larifar/Lista_Tarefas_Codarme)
 
