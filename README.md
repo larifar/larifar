@@ -3,6 +3,7 @@
 ## Bio
 
 Estou me dedicando ao fullstack com Spring, Java e Angular :)
+- Portfolio: https://larissafaria-portfolio.vercel.app
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larifar&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
